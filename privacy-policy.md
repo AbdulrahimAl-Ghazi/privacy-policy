@@ -1,5 +1,5 @@
 
-**Last updated: [Insert Date]**
+**Last updated: 2024/7/1**
 
 At **[Developer/Company Name]**, we respect your privacy and are committed to protecting the information you provide when using the **Aamel** app, whether used standalone or as part of our other applications. This policy explains how we collect, use, and safeguard your personal information.
 

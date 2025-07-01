@@ -25,7 +25,7 @@ We use collected data to:
 - Contact you when necessary.
 - Comply with applicable laws and regulations.
 
----
+--- 
 
 ## 3. Sharing Your Information
 

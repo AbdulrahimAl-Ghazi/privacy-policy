@@ -1,4 +1,3 @@
-# Privacy Policy
 
 **Last updated: [Insert Date]**
 
